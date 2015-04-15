@@ -1,0 +1,26 @@
+//
+//  ZJFramework-Prefix.pch
+//  ZJFramework
+//
+//  Created by DL on 15/3/25.
+//  Copyright (c) 2015年 DL. All rights reserved.
+//
+
+#ifndef ZJFramework_ZJFramework_Prefix_pch
+#define ZJFramework_ZJFramework_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <SystemConfiguration/SystemConfiguration.h>
+    #import <MobileCoreServices/MobileCoreServices.h>
+
+    #import "ITTDataCacheManager.h"
+    #import "CONSTS.h"
+    #import "ITTDebug.h"
+    #import "UIView+ITTAdditions.h"
+    #import "NSString+ITTAdditions.h"
+    #import "ITTCommonMacros.h"
+    #import "WDToast.h"
+#endif

@@ -1,0 +1,6 @@
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'SDWebImage-Category', '~> 1.4'
+pod 'UIViewController+BHTKeyboardAnimationBlocks', '~> 0.0.2'
+pod 'AFNetworking', '~> 2.5.1'
+pod 'MessageDisplayKit', '~> 3.0.2'
+pod 'XMPPFramework', '~> 3.6.4'
